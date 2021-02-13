@@ -8,9 +8,9 @@ permalink: /
 
 ![Morris Badge](/assets/images/Morris_badge.png)
 
-# Introduction
+# Introduction to Morris documentation
 
-This manual will help you understand the operation and maintenance of your vehicle so that you can enjoy many hours of driving pleasure.
+This manual will help you understand the operation and maintenance of your vehicles so that you can enjoy many hours of driving pleasure.
 
 Welcome to the growing family of Mini owners. This vehicle has been delivered to you with confidence.
 
@@ -33,3 +33,5 @@ All information, specifications and illustrations in this manual are correct at 
 
 Detailed and technical information is contained in the Workshop Manual which is available from your authorised
 Mini dealer.
+
+Change to the end of file.
