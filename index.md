@@ -33,3 +33,5 @@ All information, specifications and illustrations in this manual are correct at 
 
 Detailed and technical information is contained in the Workshop Manual which is available from your authorised
 Mini dealer.
+
+Businessmen they drink my wine!
