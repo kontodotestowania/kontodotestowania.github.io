@@ -10,7 +10,7 @@ nav_order: 5
 ![SVG in question](/assets/images/Test.svg)
 
 *And here is yet another one, but this time it is rendered at 200px width:*  
-![SVG in question](/assets/images/test_from_diagrams_app.svg){: style="width: 200px;"}
+![SVG in question](/assets/images/Test.svg){: style="width: 200px;"}
 
 The code looks like this:
 ```
