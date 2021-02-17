@@ -18,3 +18,6 @@ nav_order: 3
 {% include image_with_links.svg %}
 
 Here I am testing an *inline style*{: style="text-decoration: underline; font-style: normal;"}. Let's hope it works.
+
+![SVG from _includes](/_includes/image_with_links.svg)
+![SVG from assets/images](/_includes/image_with_links.svg)
