@@ -14,5 +14,5 @@ nav_order: 5
 
 The code looks like this:
 ```
-![image_title](path/to/image.png){: style="width: 200px;"}
+![image_title](/path/to/image.png){: style="width: 200px;"}
 ```
